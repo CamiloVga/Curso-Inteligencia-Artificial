@@ -1,1 +1,57 @@
-# Curso-Inteligencia-Artificial
+# Curso de Inteligencia Artificial
+
+Este repositorio contiene material de aprendizaje y ejemplos de código para un curso de Inteligencia Artificial. El curso está diseñado para proporcionar una introducción sólida a los conceptos fundamentales de la IA, así como su aplicación práctica a través de ejercicios y proyectos.
+
+## Características principales
+
+- **Códigos explicados detalladamente**: Cada ejemplo de código viene con explicaciones detalladas paso a paso, lo que facilita la comprensión de los conceptos y la implementación.
+- **Uso eficiente de recursos**: Los ejercicios y proyectos están diseñados para funcionar con recursos de GPU limitados, lo que los hace accesibles para una amplia gama de usuarios.
+- **Contenido actualizado**: El material del curso se mantiene actualizado con los últimos avances y mejores prácticas en el campo de la Inteligencia Artificial.
+
+## Contenido del curso
+
+1. **Introducción a la Inteligencia Artificial**
+  - Definición y conceptos básicos
+  - Aplicaciones de la IA
+  - Breve historia de la IA
+
+2. **Aprendizaje Automático (Machine Learning)**
+  - Aprendizaje supervisado
+  - Aprendizaje no supervisado
+  - Aprendizaje por refuerzo
+
+3. **Redes Neuronales**
+  - Conceptos básicos
+  - Redes Neuronales Feedforward
+  - Redes Neuronales Recurrentes (RNN)
+  - Redes Neuronales Convolucionales (CNN)
+
+4. **Procesamiento de Lenguaje Natural (NLP)**
+  - Modelado de lenguaje
+  - Análisis de sentimientos
+  - Traducción automática
+
+5. **Visión por Computadora**
+  - Reconocimiento de objetos
+  - Segmentación de imágenes
+  - Detección de rostros
+
+6. **Proyectos y casos de estudio**
+  - Aplicaciones prácticas de la IA en diferentes dominios
+
+## Recursos adicionales
+
+- **Bibliografía**: Se proporcionará una lista de libros y recursos recomendados para profundizar en los temas cubiertos en el curso.
+- **Sitios web importantes**:
+ - [Hugging Face](https://huggingface.co/): Una plataforma líder en modelos de IA y recursos para el Procesamiento de Lenguaje Natural.
+ - [Google AI](https://ai.google/): Sitio web oficial de Google AI, con recursos e información sobre sus últimos avances en IA.
+ - [OpenAI](https://openai.com/): Organización de investigación en IA que ha desarrollado modelos como GPT-3 y DALL-E.
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia relacionada con el curso, no dudes en ponerte en contacto:
+
+- Correo electrónico: camilovegaee@gmail.com
+- LinkedIn: https://www.linkedin.com/in/camilo-vega-169084b1/
+
+¡Esperamos que disfrutes del curso y que tu viaje en el emocionante mundo de la Inteligencia Artificial sea enriquecedor!
