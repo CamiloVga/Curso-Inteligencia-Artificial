@@ -21,4 +21,3 @@ Si tienes alguna pregunta o sugerencia relacionada con el curso, no dudes en pon
 - Correo electrónico: camilovegaee@gmail.com
 - LinkedIn: https://www.linkedin.com/in/camilo-vega-169084b1/
 
-¡Esperamos que disfrutes del curso y que tu viaje en el emocionante mundo de la Inteligencia Artificial sea enriquecedor!
